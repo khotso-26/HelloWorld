@@ -8,13 +8,13 @@ class HelloWorldTest {
     public void testingHelloWorld(){
         String word = "world";
         HelloWorld helloWorld = new HelloWorld(word);
-        assertEquals(helloWorld.sayHello(), "Hello World");
+        assertEquals(helloWorld.sayHello(), "Hello, World");
     }
 
     @Test
     public void testingHelloWorldWithName(){
         String word = "felicia";
         HelloWorld helloWorld = new HelloWorld(word);
-        assertEquals(helloWorld.sayHello(), "Hello Felicia");
+        assertEquals(helloWorld.sayHello(), "Hello, Felicia");
     }
 }

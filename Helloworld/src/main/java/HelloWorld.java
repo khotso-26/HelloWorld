@@ -14,7 +14,7 @@ public class HelloWorld {
     }
 
     public String sayHello(){
-        return "Hello " + getName().substring(0,1).toUpperCase()
+        return "Hello, " + getName().substring(0,1).toUpperCase()
                 + getName().substring(1);
     }
 
