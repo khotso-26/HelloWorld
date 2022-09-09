@@ -5,7 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/caesarCipher/pom.xml" />
+        <option value="$PROJECT_DIR$/carFueling/pom.xml" />
+        <option value="$PROJECT_DIR$/theStudentClass/pom.xml" />
+        <option value="$PROJECT_DIR$/calculatorClasses/pom.xml" />
+        <option value="$PROJECT_DIR$/carEngine/pom.xml" />
         <option value="$PROJECT_DIR$/theKotaProject/pom.xml" />
+        <option value="$PROJECT_DIR$/carInheritance/pom.xml" />
       </list>
     </option>
   </component>

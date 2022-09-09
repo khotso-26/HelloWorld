@@ -8,25 +8,21 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Helloworld" />
         <module name="theKotaProject" />
+        <module name="caesarCipher" />
+        <module name="carInheritance" />
+        <module name="theStudentClass" />
+        <module name="carEngine" />
+        <module name="calculatorClasses" />
+        <module name="carFueling" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AnimalAbilities" target="18" />
       <module name="Banking" target="11" />
-      <module name="caesarCipher" target="18" />
-      <module name="calculatorClasses" target="18" />
       <module name="CarEngine" target="18" />
-      <module name="carEngine" target="18" />
-      <module name="carFueling" target="18" />
       <module name="CarFueling" target="18" />
-      <module name="carInheritance" target="18" />
       <module name="CarInheritance" target="18" />
-      <module name="libraryStructure" target="18" />
-      <module name="mobileBuilder" target="18" />
       <module name="NutritionChain" target="18" />
-      <module name="StudentEnrollment" target="18" />
-      <module name="TheAdderClass" target="18" />
-      <module name="theStudentClass" target="18" />
       <module name="Turnitin" target="11" />
     </bytecodeTargetLevel>
   </component>
