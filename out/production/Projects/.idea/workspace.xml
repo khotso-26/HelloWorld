@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ca3c4a6-6db8-43bf-a23b-b48ee5a5b878" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/caesarCipher/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesarCipher/src/main/java/Cipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculatorClasses/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculatorClasses/src/main/java/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculatorClasses/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculatorClasses/src/main/java/Multiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculatorClasses/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carEngine/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carEngine/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carEngine/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carFueling/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carFueling/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carFueling/src/main/java/SUV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carFueling/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carInheritance/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carInheritance/src/main/java/HondaCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carInheritance/src/main/java/InnovaCrysta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carInheritance/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carInheritance/src/main/java/WagonR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theKotaProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theKotaProject/src/main/java/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theKotaProject/src/main/java/DeluxeKota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theKotaProject/src/main/java/Kota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theKotaProject/src/main/java/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theKotaProject/src/main/java/RegularKota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theKotaProject/src/main/java/VegetarianKota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theKotaProject/src/main/java/turnOff_TheKotaProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theStudentClass/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theStudentClass/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theStudentClass/src/main/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helloworld/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/src/main/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helloworld/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turnitin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/carInheritance/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Jupyter Notebook" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29FvblbYzEZKhVhla1KjlwjpLDC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mkhot/Documents/robotsworld-brownfields&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Helloworld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Order" />
+      <module name="theKotaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="CarFueling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="CarInheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Order" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ca3c4a6-6db8-43bf-a23b-b48ee5a5b878" name="Changes" comment="" />
+      <created>1652721734028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652721734028</updated>
+      <workItem from="1652721738853" duration="6140000" />
+      <workItem from="1652779622303" duration="4957000" />
+      <workItem from="1653053037799" duration="392000" />
+      <workItem from="1653385742712" duration="623000" />
+      <workItem from="1653406571404" duration="4527000" />
+      <workItem from="1653465059433" duration="6419000" />
+      <workItem from="1653554858231" duration="1708000" />
+      <workItem from="1653577622385" duration="463000" />
+      <workItem from="1653639302195" duration="137000" />
+      <workItem from="1653639608914" duration="534000" />
+      <workItem from="1653640322255" duration="599000" />
+      <workItem from="1653936974324" duration="833000" />
+      <workItem from="1653982571173" duration="3515000" />
+      <workItem from="1653986863125" duration="96000" />
+      <workItem from="1654005306207" duration="189000" />
+      <workItem from="1654673700827" duration="2584000" />
+      <workItem from="1654686774980" duration="769000" />
+      <workItem from="1654705053611" duration="1116000" />
+      <workItem from="1654706255186" duration="116000" />
+      <workItem from="1654706421262" duration="88000" />
+      <workItem from="1654706527060" duration="81000" />
+      <workItem from="1654706626349" duration="341000" />
+      <workItem from="1654707024771" duration="277000" />
+      <workItem from="1654707393330" duration="2622000" />
+      <workItem from="1654710117862" duration="14000" />
+      <workItem from="1654710149875" duration="111000" />
+      <workItem from="1654710302809" duration="101000" />
+      <workItem from="1654710442318" duration="176000" />
+      <workItem from="1654710666837" duration="705000" />
+      <workItem from="1654758206469" duration="510000" />
+      <workItem from="1654758776038" duration="608000" />
+      <workItem from="1654764172432" duration="832000" />
+      <workItem from="1654765025064" duration="115000" />
+      <workItem from="1654780922394" duration="1925000" />
+      <workItem from="1654793710366" duration="22000" />
+      <workItem from="1655113295319" duration="4307000" />
+      <workItem from="1655190768049" duration="1189000" />
+      <workItem from="1655278381972" duration="2361000" />
+    </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1652722282336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652722282336</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updates">
+      <created>1652722296912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652722296912</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+  </component>
+</project>
