@@ -31,7 +31,7 @@ public abstract class Kota {
         switch (args[0]) {
             case "shutdown":
             case "off":
-                return new turnOff_TheKotaProject(args[0]);
+                return new TurnOff_TheKotaProject(args[0]);
             case "1":
                 return new DeluxeKota(args[1]);
             case "2":

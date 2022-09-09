@@ -1,6 +1,6 @@
-public class turnOff_TheKotaProject extends Kota{
+public class TurnOff_TheKotaProject extends Kota{
 
-    public turnOff_TheKotaProject(String instruction) {
+    public TurnOff_TheKotaProject(String instruction) {
         super(instruction,"0");
     }
 
