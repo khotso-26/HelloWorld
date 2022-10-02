@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Helloworld" />
-        <module name="theKotaProject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,11 +20,13 @@
       <module name="CarFueling" target="18" />
       <module name="carInheritance" target="18" />
       <module name="CarInheritance" target="18" />
+      <module name="Css" target="18" />
       <module name="libraryStructure" target="18" />
       <module name="mobileBuilder" target="18" />
       <module name="NutritionChain" target="18" />
       <module name="StudentEnrollment" target="18" />
       <module name="TheAdderClass" target="18" />
+      <module name="theKotaProject" target="18" />
       <module name="theStudentClass" target="18" />
       <module name="Turnitin" target="11" />
     </bytecodeTargetLevel>
